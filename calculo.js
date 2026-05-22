@@ -1,8 +1,5 @@
 // calculo.js
-
 function somar(a, b) {
-  // Implementação pendente
-  return null;
+  return a * b; // Aluno B
 }
-
 module.exports = { somar };
